@@ -33,11 +33,74 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/my/socnet/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/moduls/chatandwalls/src/main/java/ru/sbt/my/socnet/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/moduls/friendsfind/src/main/java/ru/sbt/my/socnet/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/moduls/gifts/src/main/java/ru/sbt/my/socnet/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/moduls/photouploadview/src/main/java/ru/sbt/my/socnet/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/moduls/profilesview/src/main/java/ru/sbt/my/socnet/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/moduls/recommendations/src/main/java/ru/sbt/my/socnet/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -48,6 +111,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -68,6 +132,7 @@
         <option value="$PROJECT_DIR$/src/main/java/ru/sbt/my/socnet/ProfilesView.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/sbt/my/socnet/PhotoUploadView.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/sbt/my/socnet/Recommendations.java" />
+        <option value="$PROJECT_DIR$/moduls/friendsfind/src/main/java/ru/sbt/my/socnet/Main.java" />
       </list>
     </option>
   </component>
@@ -87,42 +152,21 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="my-socnet" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="my-socnet" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="my-socnet" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="my-socnet" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Run Configurations" type="21c1f71a:MavenProjectsStructure$RunConfigurationsNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
+    <option name="x" value="29" />
+    <option name="y" value="12" />
     <option name="width" value="1346" />
-    <option name="height" value="703" />
+    <option name="height" value="691" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,12 +179,259 @@
               <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
               <item name="moduls" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="moduls" type="462c0819:PsiDirectoryNode" />
+              <item name="chatandwalls" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="moduls" type="462c0819:PsiDirectoryNode" />
+              <item name="chatandwalls" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="moduls" type="462c0819:PsiDirectoryNode" />
+              <item name="chatandwalls" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="moduls" type="462c0819:PsiDirectoryNode" />
+              <item name="chatandwalls" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="moduls" type="462c0819:PsiDirectoryNode" />
+              <item name="friendsfind" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="moduls" type="462c0819:PsiDirectoryNode" />
+              <item name="friendsfind" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="moduls" type="462c0819:PsiDirectoryNode" />
+              <item name="friendsfind" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="moduls" type="462c0819:PsiDirectoryNode" />
+              <item name="friendsfind" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="moduls" type="462c0819:PsiDirectoryNode" />
+              <item name="friendsfind" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="socnet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="moduls" type="462c0819:PsiDirectoryNode" />
+              <item name="gifts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="moduls" type="462c0819:PsiDirectoryNode" />
+              <item name="gifts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="moduls" type="462c0819:PsiDirectoryNode" />
+              <item name="gifts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="moduls" type="462c0819:PsiDirectoryNode" />
+              <item name="gifts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="moduls" type="462c0819:PsiDirectoryNode" />
+              <item name="gifts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="socnet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="moduls" type="462c0819:PsiDirectoryNode" />
+              <item name="photouploadview" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="moduls" type="462c0819:PsiDirectoryNode" />
+              <item name="photouploadview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="moduls" type="462c0819:PsiDirectoryNode" />
+              <item name="photouploadview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="moduls" type="462c0819:PsiDirectoryNode" />
+              <item name="photouploadview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="moduls" type="462c0819:PsiDirectoryNode" />
+              <item name="photouploadview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="socnet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="moduls" type="462c0819:PsiDirectoryNode" />
+              <item name="profilesview" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="moduls" type="462c0819:PsiDirectoryNode" />
+              <item name="profilesview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="moduls" type="462c0819:PsiDirectoryNode" />
+              <item name="profilesview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="moduls" type="462c0819:PsiDirectoryNode" />
+              <item name="profilesview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="moduls" type="462c0819:PsiDirectoryNode" />
+              <item name="recommendations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="moduls" type="462c0819:PsiDirectoryNode" />
+              <item name="recommendations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="moduls" type="462c0819:PsiDirectoryNode" />
+              <item name="recommendations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="moduls" type="462c0819:PsiDirectoryNode" />
+              <item name="recommendations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="moduls" type="462c0819:PsiDirectoryNode" />
+              <item name="recommendations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="socnet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysocnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysocnet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="socnet" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,12 +539,15 @@
       <option name="presentableId" value="Default" />
       <updated>1529155601825</updated>
       <workItem from="1529155603877" duration="3924000" />
-      <workItem from="1529161021406" duration="275000" />
+      <workItem from="1529161021406" duration="666000" />
+      <workItem from="1529161843888" duration="1611000" />
+      <workItem from="1529190433951" duration="68000" />
+      <workItem from="1529190626149" duration="254000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4199000" />
+    <option name="totallyTimeSpent" value="6523000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -273,28 +567,28 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.32980332" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32980332" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32952693" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32952693" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32952693" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26172465" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918434" visible="true" weight="0.295764" />
       <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.5008157" side_tool="true" weight="0.28668684" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" visible="true" weight="0.32952693" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" visible="true" weight="0.32952693" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,53 +600,38 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/my/socnet/PhotoUploadView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/my/socnet/Recommendations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/my/socnet/ProfilesView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/my/socnet/FriendsFind.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/my/socnet/ChatAndWalls.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/my/socnet/Gifts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/my/socnet/PhotoUploadView.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/my/socnet/Recommendations.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/my/socnet/ProfilesView.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/my/socnet/FriendsFind.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/my/socnet/ChatAndWalls.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/my/socnet/Gifts.java" />
     <entry file="uml://MAVEN/ru.sbt.my.socnet:my-socnet:1.0-SNAPSHOT">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -389,31 +668,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/my/socnet/PhotoUploadView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/my/socnet/Recommendations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/my/socnet/ProfilesView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/my/socnet/PhotoUploadView.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/my/socnet/Recommendations.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/my/socnet/ProfilesView.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/my/socnet/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moduls/chatandwalls/src/main/java/ru/sbt/my/socnet/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moduls/friendsfind/src/main/java/ru/sbt/my/socnet/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moduls/gifts/src/main/java/ru/sbt/my/socnet/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moduls/photouploadview/src/main/java/ru/sbt/my/socnet/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moduls/profilesview/src/main/java/ru/sbt/my/socnet/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moduls/recommendations/src/main/java/ru/sbt/my/socnet/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
