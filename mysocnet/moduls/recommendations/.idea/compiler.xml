@@ -6,12 +6,6 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="chat-and-walls" />
-        <module name="friends-find" />
-        <module name="gifts" />
-        <module name="mysocnet" />
-        <module name="photo-upload-view" />
-        <module name="profiles-view" />
         <module name="recommendations" />
       </profile>
     </annotationProcessing>

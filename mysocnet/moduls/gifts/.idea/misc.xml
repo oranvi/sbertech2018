@@ -5,12 +5,6 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/moduls/chatandwalls/pom.xml" />
-        <option value="$PROJECT_DIR$/moduls/friendsfind/pom.xml" />
-        <option value="$PROJECT_DIR$/moduls/gifts/pom.xml" />
-        <option value="$PROJECT_DIR$/moduls/photouploadview/pom.xml" />
-        <option value="$PROJECT_DIR$/moduls/profilesview/pom.xml" />
-        <option value="$PROJECT_DIR$/moduls/recommendations/pom.xml" />
       </list>
     </option>
   </component>
