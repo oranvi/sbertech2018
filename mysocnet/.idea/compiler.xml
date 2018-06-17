@@ -6,14 +6,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="chat-and-walls" />
-        <module name="friends-find" />
+        <module name="chatandwalls" />
+        <module name="friendsfind" />
         <module name="gifts" />
-        <module name="mysocnet" />
-        <module name="photo-upload-view" />
-        <module name="profiles-view" />
+        <module name="photouploadview" />
+        <module name="profilesview" />
         <module name="recommendations" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="chat-and-walls" target="1.6" />
+      <module name="chat-and-walls (1)" target="1.6" />
+      <module name="friends-find" target="1.6" />
+      <module name="friends-find (1)" target="1.6" />
+      <module name="gifts (1)" target="1.6" />
+      <module name="photo-upload-view" target="1.6" />
+      <module name="photo-upload-view (1)" target="1.6" />
+      <module name="profiles-view" target="1.6" />
+      <module name="profiles-view (1)" target="1.6" />
+      <module name="recommendations (1)" target="1.6" />
+    </bytecodeTargetLevel>
   </component>
 </project>
