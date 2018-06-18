@@ -16,7 +16,7 @@
 
     <packaging>pom</packaging>
     <modules>
-        <module>chat-and-walls</module>
+        <module>communication</module>
         <module>friends-find</module>
         <module>gifts</module>
         <module>photo-upload-view</module>
