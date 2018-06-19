@@ -6,11 +6,16 @@ package ru.sbt.my.socnet;
  */
 
 import java.util.ArrayList;
+import java.util.Date;
 
 public interface IProfile {
 
-    // Метод возращает Имя пользователя
-    public String getProfileName();
+    // Метод создает профиль в соцсети
+    public void createProfile(int Id, Date dateReg, String login, String firstName,
+                              String lastName, int age);
+
+    // Метод удаляет профиль из соцсети
+    public void deleProfile(int Id);
 
     // Метод возвращает Id профиля - уникальное поле
     public int getProfileId();
@@ -21,22 +26,24 @@ public interface IProfile {
     // Метод возвращает true - если пользователь онлайн,
     public boolean isOnline();
 
-    // Метод возвращает true если profileId - друг, иначе false
-    public boolean isFriend(int profileId);
+    // Метод возвращает true если sender - друг, иначе false
+    public boolean isFriend(Profile sender);
 
-    // Метод добавляет профиль profileId в друзья
-    public void addFriend(int profileId);
+    // Метод добавляет профиль sender в друзья
+    public void addFriend(Profile sender);
 
-    // Метод удаляет профиль profileId из друзей
-    public void delFriend(int profileId);
+    // Метод удаляет профиль sender из друзей
+    public void delFriend(Profile sender);
 
-    // Метод полсылает сообщение message от profileId
-    // Возвращает messageId
-    public int sendMessage(int profileId, String message);
+    // Метод полсылает сообщение message от sender
+    // Возвращает Message
+    public Message sendMessage(Profile sender, String message);
 
-    // Метод удаляет сообщение messageId
-    public void delMessage(int profileId, int messageId);
+    // Метод удаляет сообщение message
+    public void delMessage(Message message);
 
-    public ArrayList<String> getProfile();
+    // Метод возвращает Фотографии профиля
+    public ArrayList<Photo> viewPhotos(Profile profile);
+
 
 }
