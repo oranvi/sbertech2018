@@ -16,7 +16,7 @@ public class example02 {
         System.out.println(words.length);
         HashSet<String> hashSet = new HashSet(Arrays.asList(words));
 
-        HashMap<Integer, ArrayList<String>> treeMap = new HashMap<>();
+        TreeMap<Integer, ArrayList<String>> treeMap = new TreeMap<>();
         HashSet<Integer> hashSet1 = new HashSet<>();
 
         Iterator<String> iterator = hashSet.iterator();
@@ -24,7 +24,6 @@ public class example02 {
 
         while (iterator.hasNext()){
             String stroka = iterator.next();
-            //System.out.println(stroka + " " +stroka.length());
             if (!treeMap.containsKey(stroka.length())) treeMap.put(stroka.length(), new ArrayList<String>());
             treeMap.get(stroka.length()).add(stroka);
         }
