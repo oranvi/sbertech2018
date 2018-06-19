@@ -2,7 +2,7 @@ package ru.sbt.my.socnet;
 
 import java.util.ArrayList;
 import java.util.Date;
-
+import ru.sbt.my.socnet.*;
 
 public class Profile implements IProfile {
 

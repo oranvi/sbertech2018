@@ -24,6 +24,7 @@
         <module>photo-upload-view</module>
         <module>recommendations</module>
         <module>profiles-view</module>
+        <module>models</module>
     </modules>
 
 </project>

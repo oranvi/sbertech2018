@@ -8,6 +8,7 @@ package ru.sbt.my.socnet;
 import java.util.ArrayList;
 import java.util.Date;
 
+
 public interface IProfile {
 
     // Метод создает профиль в соцсети
