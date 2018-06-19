@@ -6,7 +6,7 @@ public interface IGift { // интерфейс для отправления п�
 
     void choiceGift(String my_id);// выбор подарка
 
-    void makeGift(String my_id, String gift_id, String friend_id, String text_gift); // * содержит choiceGift()
+    void makeGift(String my_id, String friend_id, String gift_id, String text_gift); // * содержит choiceGift()
 
     void makeGiftConfidentially(String my_id, String gift_id, String friend_id, String text_gift); // * содержит choiceGift()
 
