@@ -1,5 +1,7 @@
 package ru.sbt.my.socnet;
 
+// здесь все методы видимо связаны с другим/другими модулями
+
 public interface IWall {
 
     void addWallMessage(String my_id, String friend_id, String gift_id, String text_message); // * на своей стене или стене друга
