@@ -16,12 +16,13 @@
 
     <packaging>pom</packaging>
     <modules>
-        <module>communication</module>
         <module>friends-find</module>
         <module>gifts</module>
         <module>photo-upload-view</module>
         <module>recommendations</module>
         <module>profiles-view</module>
+        <module>chat</module>
+        <module>wall</module>
     </modules>
 
 </project>
