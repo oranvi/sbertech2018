@@ -1,0 +1,11 @@
+﻿I. прочитать
+https://habrahabr.ru/post/162017/  Java собеседование. Коллекции
+https://habrahabr.ru/post/267389/ Коллекции в Java: о чём многие забывают
+
+II. Убедится, что вы знаете:
+- основные интерфейсы и реализации коллекций (открыть IDEA, поизучать исходники Collections, List ArrayList и т.д.)
+- оценку сложности основных методов
+- контракт equals&hascode
+- интерфейс Comparable
+
+III. Доделать все задачи из примера с https://github.com/Valeran86/collections-example (то что начали на занятии)
