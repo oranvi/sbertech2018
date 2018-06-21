@@ -1,4 +1,5 @@
 package ru.sbt.my.socnet;
 
-public class Main {
+public class Mysocnet {
+
 }
