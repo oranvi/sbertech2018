@@ -2,23 +2,27 @@ package ru.sbt.my.socnet;
 
 public interface IChat {
 
-    // * создание чата (тет-а-тет или группового)
+    void createChat(String my_id, String participant_id); // * создание чата (тет-а-тет или группового)
+                                                          // participant - участник (друг или нет)
 
-    // добавление собеседников в чат
+    void addNewParticipant(Chat chat, String participant_id); // * добавление собеседника/ов в существующий чат
+                                                              // Chat - сущность
 
-    // * выбор чата
+    void chooseChat(Chat chat); // * выбор чата (из доступных пользователю)
 
-    // (*?) загрузка изображения для отправки через чат
+    void sendMessage(String my_id, String friend_id, String text_message); // отправка сообщения
+                                                                           // или вместо String text_message Message message?
 
-    // загрузка/запись голосового сообщения
+    void uploadPicture(Chat chat, Picture picture); // (*?) загрузка изображения для отправки через чат
+                                                   // Picture - сущность
 
-    // * отображение фото друга в чате
+    void displayPhoto(Chat chat, String participant_id); // * отображение миниатюры фото собеседника в чате
 
-    // отображение времени/даты сообщения
+    void displayTimeDate(Message message); // * отображение времени/даты сообщения
 
-    // * переход на страницу друга из чата
+    void goToWebsite(String participant_id); // * переход на страницу друга из чата
 
-    void sendMessage(String my_id, String friend_id, String gift_id, String text_message);
+
 
 
 
