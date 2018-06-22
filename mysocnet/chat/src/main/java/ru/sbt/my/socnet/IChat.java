@@ -16,11 +16,11 @@ public interface IChat {
     void uploadPicture(Chat chat, Picture picture); // (*?) загрузка изображения для отправки через чат
                                                    // Picture - сущность
 
-    void displayPhoto(Chat chat, String participant_id); // * отображение миниатюры фото собеседника в чате
+    void displayPhotoInChat(Chat chat, String participant_id); // * отображение миниатюры фото собеседника в чате
 
     void displayTimeDate(Message message); // * отображение времени/даты сообщения
 
-    void goToWebsite(String participant_id); // * переход на страницу друга из чата
+    void goToWebsiteFromChat(String participant_id); // * переход на страницу друга из чата
 
 
 
