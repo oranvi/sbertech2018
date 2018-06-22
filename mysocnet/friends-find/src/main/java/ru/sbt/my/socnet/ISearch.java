@@ -1,23 +1,25 @@
 package ru.sbt.my.socnet;
 
-// * - помечены связи с другими модулями
+// "*" - помечены связи с другими модулями
 
 public interface ISearch { // интерфейс для поиска/добавления друзей
 
-    void searchFriend(String name_surname); // поиск друга
+    void searchFriend(String my_id, String name_surname, boolean country, boolean town, boolean ageFrom, boolean ageTo); // поиск друга с возможностью более точного поиска
 
-    void searchFriendAccurately(String name_surname, String country, String town, int ageFrom, int ageTo); // точный поиск друга
+    void offerFriendshipFromSearch(String my_id, String user_id); // предложение дружбы из результатов поиска
 
-    void offerFriendship(String user_id); // предложение дружбы из результатов поиска
+    void decideFriendship(String my_id, String user_id); // согласие/несогласие на предложение дружбы
 
-    // * рекомендации при поиске
+    // * рекомендации при поиске (тут пока не ясно)
 
-    // * перейти на страницу пользователя из результатов поиска
+    void goToWebsiteFromSearch(String participant_id); // * перейти на страницу пользователя из результатов поиска
+                                             // очень похожий метод, как в модуле Chat
 
-    // * отправить предложение дружбы со страницы пользователя
+    void offerFriendshipFromProfile(String my_id, String user_id); // * отправить предложение дружбы со страницы пользователя
 
-    // * отображение фото пользователя в результатах поиска
+    void displayPhotoInSearch(String participant_id); // * отображение миниатюры фото пользователя в результатах поиска
+                                              // похожий метод, как в модуле Chat
 
-    // * (?) удаление друга
+    void renounceFriendship(String my_id, String user_id); // * (?) удаление из друзей
 
 }
