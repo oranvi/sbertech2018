@@ -10,10 +10,11 @@ public interface IChat {
 
     void chooseChat(Chat chat); // * выбор чата (из доступных пользователю)
 
-    void sendMessage(String my_id, String friend_id, String text_message); // отправка сообщения
+    void sendMessage(String my_id, String friend_id, String text_message, boolean is_picture); // отправка сообщения
                                                                            // или вместо String text_message Message message?
+                                                                           // содержит uploadPictureToChat
 
-    void uploadPicture(Chat chat, Picture picture); // (*?) загрузка изображения для отправки через чат
+    void uploadPictureToChat(Picture picture); // (*?) загрузка изображения для отправки через чат
                                                    // Picture - сущность
 
     void displayPhotoInChat(Chat chat, String participant_id); // * отображение миниатюры фото собеседника в чате
