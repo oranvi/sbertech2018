@@ -26,6 +26,7 @@
         <module>recommendations</module>
         <module>profiles-view</module>
         <module>models</module>
+        <module>transport-api</module>
     </modules>
 
 </project>

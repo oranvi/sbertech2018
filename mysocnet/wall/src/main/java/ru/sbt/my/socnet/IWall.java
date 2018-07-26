@@ -4,20 +4,18 @@ package ru.sbt.my.socnet;
 
 public interface IWall {
 
-    void addWallMessage(String my_id, String friend_id, String text_message, boolean is_picture); // создать сообщение на своей стене или стене друга
-                                                                                                  // содержит uploadPictureToWall
+    void addWallMessage(int senderID, int receiverID, String messageText); // создать сообщение на своей стене или стене друга
 
-    void uploadPictureToWall(Picture picture); // добавить в сообщение на стене картинку
+    void createComment(int senderID, Message message, String commentText); // создание комментария к сообщению на стене
 
-    void addLinkToWall(Link link); // (? нужно или нет) добавить ссылку на сообщение из сообщества
-                                   // Link - сущность
+    void createLike(int senderID, Message message, boolean isLike); // лайк
 
-    void displayTimeDate(Message message); // отображение времени/даты сообщения
+    void displayAmountView(Message message); // отображение количества просмотров (? нужно или нет)
 
-    void createComment(String my_id, Message message, String text_comment); // создание комментария к сообщению на стене
+    // void addLinkToWall(Link link); // (? нужно или нет) добавить ссылку на сообщение из сообщества // Link - сущность
 
-    void createLike(String my_id, Message message, boolean is_like); // лайк
+    //void uploadPictureToWall(Picture picture); // добавить в сообщение на стене картинку
 
-    void displayAmountView(Message message); // (? нужно или нет) отображение количества просмотров
+    //void displayTimeDate(Message message); // подумать // отображение времени/даты сообщения
 
 }

@@ -2,13 +2,15 @@ package ru.sbt.my.socnet;
 
 // "*" - помечены связи с другими модулями
 
+import ru.sbt.my.socnet.dto.Gift;
+
 public interface IGift { // интерфейс для отправления подарков
 
-    void chooseGift(String my_id, String gift_id); // выбор подарка
+    Gift chooseGift(int giftID); // выбор подарка
 
-    void makeGift(String friend_id, String text_gift, boolean is_confidentially); // * подарить с возможностью подарить скрыто
+    void makeGift(int friendID, String giftText, boolean is_confidentially); // * подарить с возможностью подарить скрыто
                                                                                   // содержит choiceGift()
 
-    void displayGifts(String friend_id); // * отображение подарков на странице пользователя (получателя)
+    //void displayGifts(int friendID); // * отображение подарков на странице пользователя (получателя)
 
 }
